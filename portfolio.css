@@ -1,0 +1,50 @@
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0px 20px;
+    
+}
+.text-primary{
+    color: rgb(152, 214, 52);
+}
+.nav-title{
+    font-weight: 800;
+    font-size: medium;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+nav  ul li{
+list-style: none ;
+margin-right: 50px;
+}
+.btn-primary{
+    background-color: rgb(152, 214, 52);
+    font-weight: bold;
+
+color: black;
+padding: 1px 3px;
+border: none
+
+}
+.bannerpic{
+    width: 580px ;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+.color{
+    background-color: rgb(152, 214, 52);
+    font-weight: bold;
+
+}
+.bannerdes{
+    max-width: 580px;
+}
+.gret{
+    font-weight:small;
+}
